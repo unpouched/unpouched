@@ -36,7 +36,7 @@ Turning backup off stops new uploads. To remove the saved copy, use Delete all m
 
 ## Anonymous usage statistics
 
-If "Share anonymous usage stats" is on (default on, you can turn it off in Settings), the app sends anonymous events, such as which setup screens were reached, whether the paywall was shown, whether a subscription started, which in-app moments were shown, and where you heard about the app.
+If "Share anonymous usage stats" is on (default on, you can turn it off in Settings), the app sends anonymous events: which setup screens are reached, whether the paywall was shown, whether a subscription started or was restored, and where you heard about the app.
 
 These events never include pouch counts, nicotine amounts, triggers, reasons, health answers, your name or your email. Our analytics provider anonymises identifiers.
 
