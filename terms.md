@@ -25,10 +25,10 @@ You decide how you use the plan and are responsible for your own choices. Result
 
 ## Subscriptions
 
-Some features need Unpouched Pro. Ride It Out stays free.
+Unpouched requires an active subscription (Unpouched Pro). A free trial may be offered; if so, its length is shown before you start.
 
 - Prices are shown in the app before you buy.
-- Payment is charged to your Apple ID when you confirm, or when a free trial ends.
+- Payment is charged to your Apple ID when you confirm, or when a free trial ends, unless you cancel before it ends.
 - Subscriptions renew automatically unless cancelled at least 24 hours before the current period ends.
 - You can manage or cancel in your Apple ID settings. Deleting the app does not cancel a subscription.
 - Refunds are handled by Apple under its policies.

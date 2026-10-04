@@ -24,7 +24,7 @@ Some of this is health-related data. It stays on your phone and we cannot see it
 
 ## Optional account and backup
 
-An account is optional. Everything free works without one. If you create an account, we process:
+An account is optional. You can subscribe and use the app without one. If you create an account, we process:
 
 - Your email address, or a sign-in identifier from Apple or Google (Sign in with Apple lets you hide your email).
 - An account ID.
